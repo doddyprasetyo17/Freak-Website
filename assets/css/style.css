@@ -1,0 +1,11 @@
+/* Style Buat semuanya */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* body */
+body {
+  font-family: "Oswald", sans-serif;
+  overflow-x: hidden;
+}
