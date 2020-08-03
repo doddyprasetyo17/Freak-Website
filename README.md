@@ -1,2 +1,2 @@
 # Freak-Website
-Membuat website berita responsive
+Membuat Web Responsive dengan Html Css dan JavaScript.
